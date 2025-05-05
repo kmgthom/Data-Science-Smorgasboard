@@ -1,2 +1,2 @@
 # Data Science Smorgasboard
- A tasting of classic data science algorithms
+Come have a taste a some classic data science algorithms, featuring flavors of regression, classification, and clustering.
